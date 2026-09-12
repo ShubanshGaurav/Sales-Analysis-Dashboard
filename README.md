@@ -122,7 +122,7 @@ The **Customer Details** page provides a more detailed view of sales performance
 This page helps sales representatives identify high-value customers and understand their purchasing patterns.
 
 ---
-
+[Dashboard Preview] (https://github.com/ShubanshGaurav/Sales-Analysis-Dashboard/blob/main/Dashboard%202.jpg)
 ## 3. Product Details
 
 The **Product Details** page focuses on product-level sales performance.
@@ -140,7 +140,7 @@ The **Product Details** page focuses on product-level sales performance.
 This view helps identify products with strong sales performance and supports product-level sales follow-up.
 
 ---
-
+[Dashboard Preview] (https://github.com/ShubanshGaurav/Sales-Analysis-Dashboard/blob/main/Dashbaord%203.jpg)
 # 🎛️ Interactive Filters
 
 The dashboard provides interactive filtering capabilities including:
