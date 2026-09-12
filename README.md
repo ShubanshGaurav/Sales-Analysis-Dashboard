@@ -105,7 +105,7 @@ The **Sales Overview** page provides a high-level summary of sales performance.
 - Which product categories contribute most to total sales?
 
 ---
-
+[Dashboard Preview] (https://github.com/ShubanshGaurav/Sales-Analysis-Dashboard/blob/main/Dashboard%201.jpg)
 ## 2. Customer Details
 
 The **Customer Details** page provides a more detailed view of sales performance by individual customers.
